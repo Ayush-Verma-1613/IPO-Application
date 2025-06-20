@@ -13,7 +13,7 @@ function About() {
 
         <p className="text-gray-700 text-lg sm:text-xl max-w-4xl mx-auto leading-relaxed mb-10">
           Bluestock is a modern IPO tracking platform crafted to deliver real-time updates, detailed company insights,
-          and a beautiful, responsive experience for every kind of user — investor, analyst, or student.
+          and a beautiful, responsive experience for every kind of user — investors, analysts, or students.
         </p>
 
         <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-2 max-w-5xl mx-auto text-left text-base sm:text-lg text-gray-800">
